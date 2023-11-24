@@ -18,8 +18,12 @@ This project is a Python-based GUI integrated attendance system. It uses face re
 4. **Live Attendance Updates**: The system displays live attendance updates for the day on the main screen in a tabular format. The table includes the ID, name, date, and time of attendance.
 
 ## Screenshots
-
-(Include screenshots here)
+![Screenshot 2023-11-24 125154](https://github.com/akshitjain2004/Attendance-Management-System/assets/94056853/edbf55fd-56e0-4d7e-9fe2-2b4e6059e066)
+![2](https://github.com/akshitjain2004/Attendance-Management-System/assets/94056853/6b3a2c9b-5739-4367-aea1-497b9c8ba387)
+![3](https://github.com/akshitjain2004/Attendance-Management-System/assets/94056853/5298c6b8-4ed6-4bc6-bce8-2754a87f05a8)
+![5](https://github.com/akshitjain2004/Attendance-Management-System/assets/94056853/8f3d435e-fdf7-40b2-a7bf-bc07f2159783)
+![6](https://github.com/akshitjain2004/Attendance-Management-System/assets/94056853/e6ead50c-ca2d-48f7-b6a3-ac0c751462ee)
+![7](https://github.com/akshitjain2004/Attendance-Management-System/assets/94056853/f5b325e6-f8aa-456a-90b4-1f8d7d43fb79)
 
 ## Getting Started
 
